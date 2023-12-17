@@ -15,10 +15,12 @@ For Test
   5.  IF step 4 is suceess go to card-assessment and write in terminal / cmd "**npm start**"
 
   ![image](https://github.com/khuzairie1306/card-assesment/assets/151608761/8911ccc9-593c-432c-b6c3-12a6dd45df96) 
+  
   Above is For No **#4**
 
   
   ![image](https://github.com/khuzairie1306/card-assesment/assets/151608761/5a88e7d1-98ce-4e41-88e7-dc9e33afc49d)
+  
   Above is For No **#5**
 
 
@@ -36,7 +38,8 @@ For Test
 **Section B - Mysql Improvement**
 Suggestion Improvement
 1.You can Use Database indexes in MySQL enable you to accelerate the performance of SELECT query statements.  
-2.You can also use pagination by using the LIMIT and OFFSET/FETCH clauses (i can see the below mysql query you already use).
+
+2.You can also use pagination by using the LIMIT and OFFSET/FETCH clauses (i can see the below mysql query you already use).<br>
 3.You also can use Temp table but with proper indexes.
 4. Caching - DECLARE use_cache BOOL DEFAULT true;
 5. You can install load balance for communicate one or more MySQL servers and provides connectivity to those servers for multiple clients.
