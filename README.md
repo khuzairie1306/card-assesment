@@ -36,6 +36,10 @@ For Test
   ![image](https://github.com/khuzairie1306/card-assesment/assets/151608761/b9e98648-a8e7-40b8-8705-3dfd319d81e2) 
 
 **Section B - Mysql Improvement**
+
+
+Time to Complete = 15 minutes;
+
 Suggestion Improvement
 
 1.You can Use Database indexes in MySQL enable you to accelerate the performance of SELECT query statements.  
