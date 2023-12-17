@@ -37,6 +37,7 @@ For Test
 
 **Section B - Mysql Improvement**
 Suggestion Improvement
+
 1.You can Use Database indexes in MySQL enable you to accelerate the performance of SELECT query statements.  
 2.You can also use pagination by using the LIMIT and OFFSET/FETCH clauses (i can see the below mysql query you already use).<br>
 3.You also can use Temp table but with proper indexes.<br>
