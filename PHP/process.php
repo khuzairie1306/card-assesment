@@ -42,12 +42,9 @@
 
         $finalcard = $fincard;
 
-        // // sprint_r($array);
-        // $totalcard = count($finalcard);
-        
+   
         $totalcardperson = floor($totalcard / $PeopleDistributeNumber);
-        // echo $totalcardperson;
-        // exit;
+
         if ($totalcardperson == 0)
             $totalcardperson = 1;
         $finalresult = array();
@@ -72,22 +69,8 @@
         
 
         
-        // $my_array = array("a"=>"red","b"=>"green","c"=>"blue","d"=>"yellow","e"=>"purple");
-
-        // shuffle($my_array);
-        // var_dump($my_array);
-
-
-        // $shuffled = array_rand($cards);
-        // $v = array[$shuffled];
-        // print_r($v);
-
-        
-
-        
     } else {
         echo("Variable is not an integer");
     }
 
-    // echo ("Hello from server: $PeopleDistributeNumber");
 ?>
