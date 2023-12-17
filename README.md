@@ -38,12 +38,11 @@ For Test
 **Section B - Mysql Improvement**
 Suggestion Improvement
 1.You can Use Database indexes in MySQL enable you to accelerate the performance of SELECT query statements.  
-
 2.You can also use pagination by using the LIMIT and OFFSET/FETCH clauses (i can see the below mysql query you already use).<br>
-3.You also can use Temp table but with proper indexes.
-4. Caching - DECLARE use_cache BOOL DEFAULT true;
-5. You can install load balance for communicate one or more MySQL servers and provides connectivity to those servers for multiple clients.
-6. If you have proper indexes not worries about Like statement but recommend try to use equal statement if Like statement not necessary  .
+3.You also can use Temp table but with proper indexes.<br>
+4. Caching - DECLARE use_cache BOOL DEFAULT true;<br>
+5. You can install load balance for communicate one or more MySQL servers and provides connectivity to those servers for multiple clients.<br>
+6. If you have proper indexes not worries about Like statement but recommend try to use equal statement if Like statement not necessary  .<br>
 
 Below is Example Mysql For your side
 
