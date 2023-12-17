@@ -1,4 +1,4 @@
-![image](https://github.com/khuzairie1306/card-assesment/assets/151608761/9f11a5e5-eb14-403b-a496-349df8f19273)
+
 **Section A -  Cards Calculate**
 
 Time to Complete = 5 hours;
